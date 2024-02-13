@@ -1,4 +1,3 @@
-Re# This is the README for 11_shrodi NLP project.
 
 # This folder contains:
     -LSTM_sonnet.ipynb - the main code for the project.
